@@ -15,7 +15,6 @@
 
 ---
 
-
 ### 🧠 Currently Exploring  
 - JavaScript (Advanced concepts & best practices)  
 - React.js & Next.js  
@@ -23,10 +22,6 @@
 - AI integrations in modern web apps  
 
 ---
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ### 🌐 Connect with Me  
 
@@ -46,6 +41,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ### 🛠️ Languages & Tools  
 
@@ -75,3 +74,4 @@
 > “Every line of code you write adds a brick to your digital legacy — make it strong and elegant.”  
 
 ---
+
