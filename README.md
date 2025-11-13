@@ -31,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,c,git,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,c,git" />
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh-codes&show_icons=true&locale=en" alt="gagandeepsingh-codes" /></p>
