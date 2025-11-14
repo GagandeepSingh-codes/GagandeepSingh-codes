@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
 <h3 align="center">|| Full Stack Web development || React developer || Software Engineer || Learning and combining with AIML ||</h3>
-<b>Open sorce contributor in @Code social'25 and @GSsoc'25</b>
+<b>Open sorce contributor in @Code social'25 and @GSsoc'26</b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepsingh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepsingh-codes" /> </p>
 
 - 🔭 I’m currently working on **full stack web development**
@@ -32,8 +32,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git" />
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagandeepsingh-codes" alt="gagandeepsingh-codes" /></a> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh-codes&show_icons=true&locale=en" alt="gagandeepsingh-codes" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagandeepsingh-codes&" alt="gagandeepsingh-codes" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagandeepsingh-codes" alt="gagandeepsingh-codes" /></a> </p>
