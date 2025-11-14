@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
-<h3 align="center">Full Stack Web development || React developer || Software Engineer || Learning and combining with AIML</h3>
+<h3 align="center">|| Full Stack Web development || React developer || Software Engineer || Learning and combining with AIML ||</h3>
 <b>Open sorce contributor in @Code social'25 and @GSsoc'25</b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepsingh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepsingh-codes" /> </p>
 
@@ -15,8 +15,6 @@
 - 💬 Ask me about **open source contribution**
 
 - 📫 How to reach me **gagan240806@gmail.com**
-
-- ⚡ Fun fact **other than coding I love to do sketching , beatboxing , boxing , and some basic calisthenics.**
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
