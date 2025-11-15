@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
 <h3 align="center">|| Full Stack Web development || React developer || Software Engineer || Learning and integrating AIML <br> || Open sorce contributor in @Code social'25 and @Girl script summer of code'25 || </h3>
 
----
-
 <h3 align = "center"><b></b></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepsingh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepsingh-codes" /> </p>
+
+---
+
+<img src = "https://github.com/GagandeepSingh-codes/GagandeepSingh-codes/blob/main/WhatsApp%20Image%202025-11-06%20at%2000.54.20_8a85dfd0.jpg?raw=true">
+
+---
 
 - 🔭 I’m currently working on **full stack web development**
 
