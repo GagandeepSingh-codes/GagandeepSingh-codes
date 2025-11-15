@@ -44,8 +44,14 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagandeepsingh-codes" alt="gagandeepsingh-codes" /></a> </p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh-codes&show_icons=true&theme=radical" alt="gagandeepsingh-codes" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh-codes&show_icons=true&theme=radical" alt="gagandeepsingh-codes" />
+<img align = right src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsingh-codes&layout=compact">
+</p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagandeepsingh-codes&" alt="gagandeepsingh-codes" /></p>
+---
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagandeepsingh-codes&" alt="gagandeepsingh-codes" /></p>
+
+---
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagandeepsingh-codes" alt="gagandeepsingh-codes" /></a> </p>
