@@ -6,10 +6,6 @@
 
 ---
 
-<img src = "https://github.com/GagandeepSingh-codes/GagandeepSingh-codes/blob/main/WhatsApp%20Image%202025-11-06%20at%2000.54.20_8a85dfd0.jpg?raw=true">
-
----
-
 - 🔭 I’m currently working on **full stack web development**
 
 - 🌱 I’m currently learning **java script and react to make my website standout**
