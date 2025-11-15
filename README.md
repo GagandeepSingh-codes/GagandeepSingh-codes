@@ -1,6 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
-<h3 align="center">|| Full Stack Web development || React developer || Software Engineer || Learning and combining with AIML <br> || Open sorce contributor in @Code social'25 and @Girl script summer of code'25 || </h3>
+<h3 align="center">|| Full Stack Web development || React developer || Software Engineer || Learning and integrating AIML <br> || Open sorce contributor in @Code social'25 and @Girl script summer of code'25 || </h3>
+
+---
+
 <h3 align = "center"><b></b></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepsingh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepsingh-codes" /> </p>
 
@@ -20,6 +22,8 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gagan_singh2486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gagan_singh2486" height="30" width="40" /></a>
@@ -27,10 +31,14 @@
 <a href="https://instagram.com/sardargagandeep24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sardargagandeep24" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git" />
 </p>
+
+---
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagandeepsingh-codes" alt="gagandeepsingh-codes" /></a> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh-codes&show_icons=true&locale=en" alt="gagandeepsingh-codes" /></p>
