@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
-<h3 align="center">|| Full Stack Web development || React developer || Software Engineer || Learning and integrating AIML <br> || Open sorce contributor in @Code social'25 and @Girl script summer of code'25 || </h3>
+<h3 align="center">|| Learning <b> Full Stack Web development </b> || React developer || Software Engineer || Learning and integrating AIML <br> || Open sorce contributor in @Code social'25 and @Girl script summer of code'25 || </h3>
 
 <h3 align = "center"><b></b></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepsingh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepsingh-codes" /> </p>
