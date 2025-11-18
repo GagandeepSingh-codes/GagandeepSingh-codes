@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **gagan240806@gmail.com**
 
+---
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
