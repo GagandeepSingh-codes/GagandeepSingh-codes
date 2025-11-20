@@ -40,7 +40,9 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagandeepsingh-codes" alt="gagandeepsingh-codes" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=gagandeepsingh-codes&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -50,6 +52,6 @@
 
 ---
 
-<p> 
-<img align = center src = "https://nirzak-streak-stats.vercel.app/?user=GagandeepSingh-codes&theme=dark&hide_border=true" /> 
+<p align = center> 
+<img src = "https://nirzak-streak-stats.vercel.app/?user=GagandeepSingh-codes&theme=dark&hide_border=true" /> 
 </p>
