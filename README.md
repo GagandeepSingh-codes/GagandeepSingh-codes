@@ -47,14 +47,20 @@
 
 ---
 
-<p align = center> 
-<img src = "https://nirzak-streak-stats.vercel.app/?user=GagandeepSingh-codes&theme=dark&hide_border=true" /> 
+<p align = "center"> 
+  <img src = "https://nirzak-streak-stats.vercel.app/?user=GagandeepSingh-codes&theme=dark&hide_border=true" /> 
 </p>
 
 ---
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh-codes&show_icons=true&theme=radical" alt="gagandeepsingh-codes" /></p>
+<p align="center">&nbsp;
+  <img align = "center" src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh-codes&show_icons=true&theme=radical" alt="gagandeepsingh-codes" />
+</p>
 
 ---
 
-<p align = "center" ><img align = center src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsingh-codes&layout=compact"></p>
+<p align = "center" >
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsingh-codes&layout=compact">
+</p>
+
+---
