@@ -52,15 +52,3 @@
 </p>
 
 ---
-
-<p align="center">&nbsp;
-  <img align = "center" src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh-codes&show_icons=true&theme=radical" alt="gagandeepsingh-codes" />
-</p>
-
----
-
-<p align = "center" >
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsingh-codes&layout=compact" alt = "gagandeepsingh-codes">
-</p>
-
----
