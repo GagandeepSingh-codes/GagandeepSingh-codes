@@ -42,7 +42,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=gagandeepsingh-codes&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=gagandeepsingh-codes&theme=juicyfresh&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ---
 
 <p align = "center" >
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsingh-codes&layout=compact">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsingh-codes&layout=compact" alt = "gagandeepsingh-codes">
 </p>
 
 ---
