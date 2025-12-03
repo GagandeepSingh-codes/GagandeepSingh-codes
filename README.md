@@ -1,7 +1,7 @@
 <p auto><img src = "https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" ></p>
 
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
-<h3 align="center">|| Learning <b> Full Stack Web development </b> || React developer || Software Engineer || Learning and integrating AIML <br> || Open sorce contributor in @Code social'25 and @Girl script summer of code'25 || </h3>
+<h3 align="center">|| Learning <b> Full Stack Web development </b> || React developer || Learning and integrating AIML <br> || Open sorce contributor in @Code social'25 and @Girl script summer of code'25 || </h3>
 
 <h3 align = "center"><b></b></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepsingh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepsingh-codes" /> </p>
