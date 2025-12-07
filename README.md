@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="left">😏 Github status </h2>
+<!-- <h2 align="left">😏 Github status </h2>
 <p align = "center">
   <img src = "" />
 </p>
@@ -69,4 +69,4 @@
 <p align = "center">
   <img src = "" />
 </p>
-
+ -->
