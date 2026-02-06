@@ -13,7 +13,7 @@
 <ul>
   <li>🔭 I’m currently working on <b> full stack web development </b></li>
   <li>🌱 I’m currently learning <b> java script and react to make my website standout </b></li>
-  <li>👯 I’m looking to collaborate on <b>open source project </b>s</li>
+  <li>👯 I’m looking to collaborate on <b>open source projects </b></li>
   <li>🤝 I’m looking for help with <b> finding a remote internship </b></li>
   <li>💬 Ask me about <b> open source contribution</b></li>
   <li>📫 How to reach me <b> gagan240806@gmail.com</b></li>
